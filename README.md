@@ -7,3 +7,5 @@ Not only traffic detection, this system also helps to follow the optimum route, 
 
 Traffic detection sensors are placed on the roads to calculate the traffic of the route. 
 Using the sensors, the traffic is calculated in real time and users are notified about it. 
+
+I got chance to present this idea in the Hackathon held in SRM AP in 2019. The idea got the preety good attention during the presentation.
